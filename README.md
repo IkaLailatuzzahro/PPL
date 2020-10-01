@@ -1,7 +1,6 @@
-# PPL
+# Simple Cart App
+Aplikasi cart sederhana. Disadur dan dimodifikasi dari [https://github.com/kodeid-resources/simple-cart-app](https://github.com/kodeid-resources/simple-cart-app)
 
-Nama : Ika Lailatuzzahro
+# Acknowledgment
+[Riza Fahmi](https://github.com/rizafahmi)
 
-Kelas : TI-3D
-
-NIM : 1841720153
